@@ -3,8 +3,8 @@ name: systems-integration-analysis
 description: Analyze problems as complete systems rather than isolated components, revealing dependencies, failure points, and integration requirements using Tesla's holistic methodology.
 license: MIT
 metadata:
+  version: 1.0.5127
   author: sethmblack
-  version: 1.0.5126
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
