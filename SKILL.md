@@ -4,7 +4,8 @@ description: Analyze problems as complete systems rather than isolated component
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5126
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
 - systems-integration-analysis
